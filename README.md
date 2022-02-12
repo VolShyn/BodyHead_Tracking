@@ -8,7 +8,7 @@
 
 1. Download weights and test video:
 
--Here's [link](https://drive.google.com/drive/u/0/folders/1IqZA6OJZs1tsCPKPZwsoUk3KpA0gO511) on bodyhead.pt (weights) and test video
+-Here's [link](https://drive.google.com/drive/folders/1IqZA6OJZs1tsCPKPZwsoUk3KpA0gO511?usp=sharing) on bodyhead.pt (weights) and test video
 
 2. Paste test files into your root folder
 3. Open cmd (or *anaconda prompt*) and run main.py
