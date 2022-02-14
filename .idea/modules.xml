@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CrowdHuman_bfj.iml" filepath="$PROJECT_DIR$/.idea/CrowdHuman_bfj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BodyHead_Tracking.iml" filepath="$PROJECT_DIR$/.idea/BodyHead_Tracking.iml" />
     </modules>
   </component>
 </project>
