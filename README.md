@@ -6,7 +6,7 @@ Body + Head tracking based on CrowdHuman dataset
 
 # How to Run:
 
-1. ***Download weights and paste it into project folder [click](https://drive.google.com/drive/folders/1IqZA6OJZs1tsCPKPZwsoUk3KpA0gO511?usp=sharing)***
+1. ***Download weights and paste it into project folder [click](https://drive.google.com/file/d/1gglIwqxaH2iTvy6lZlXuAcMpd_U0GCUb/view)***
 2. Open cmd or anaconda and install requirements
 3. Run the main.py avalailable args *Example: *
 
